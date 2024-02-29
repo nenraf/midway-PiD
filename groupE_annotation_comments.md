@@ -31,3 +31,12 @@ The following images were skipped by Jan (annotator_ID), because there was too m
 
 The following images were skipped by Jan (annotator_ID), there is nothing wrong on the skin: 
 51b88287-PAT_512_962_998.png
+
+The following images were skipped by Simon (annotator_ID), because they were blurry:
+b6e7527d-PAT_247_1293_449.png, 72b156f9-PAT_65_101_847.png, 9ae6fba0-PAT_153_1200_541.png
+
+The following images were skipped by Simon (annotator_ID), because they looked like normal skin:
+c7ae398d-PAT_326_690_797.png, f7983bb7-PAT_328_1738_890.png, 777c1564-PAT_57_90_910.png
+
+The following images were skipped by Simon (annotator_ID), because they had a lot of hair covering the possible skin lession:
+e1638171-PAT_279_429_142.png
