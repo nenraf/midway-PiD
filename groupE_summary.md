@@ -43,3 +43,5 @@ We’ve written a brief description of the 6 diagnosis we may find in the images
   keratoses are typically found on areas of the body prone to sun exposure, but they
   are harmless and do not require treatment unless they become irritated or
   cosmetically bothersome.
+
+As a final aspect of the summary, it is important to point out that throughout the dataset's images we may encounter some that can't be considered useful to include as valid inputs for the algorithm we will have to develop later on the semester, because they would worsen the algorithm's quality and precision when using it to fulfill its purpose: diagnosing skin cancer after learning how skin cancer looks like. This explains why they are being skipped during the labelling process. 
