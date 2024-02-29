@@ -5,6 +5,15 @@ Thus, we have decided to use our names as the annotator_ids for this file and fo
 
 # Annotations' comments
 
-Since we have just marked the different skin lessions without distinguishing between the different types (by, for instance, using a variety of colors for the labelling process) the only comments that make sense are the ones related to skipped images, so:   
+Since we have just marked the different skin lessions without distinguishing between the different types (by, for instance, using a variety of colors for the labelling process) the only comments that make sense are the ones related to skipped images.
+We have therefore decided to skip images that were blurry, had a lot hair covering the skin or were just normal skin, these are our comments:
 
+The following images were skipped by Martin (annotator_ID), because they were very blurry:
+aa2dfd80-PAT_2107_4595_381.png
+
+The following images were skipped by Martin (annotator_ID), because they looked like normal skin:
+73e69631-PAT_1799_3457_209.png, 8a1652ca-PAT_2102_4575_616.png, 7ebac997-PAT_1565_2432_808.png, dd21475d-PAT_1704_3142_702.png, b5f8768b-PAT_1715_3186_948.png, 54c19757-PAT_1738_3260_304.png, 087b04c2-PAT_1399_1367_121.png
+
+The following images were skipped by Martin (annotator_ID), because they had a lot of hair:
+00615c9f-PAT_1812_3492_670.png, 7a8c8117-PAT_1483_1678_850.png
 
