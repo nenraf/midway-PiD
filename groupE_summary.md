@@ -1,3 +1,7 @@
+The given dataset, is called “PAD-UFES-20”. It’s a skin lesion dataset composed by images shot on smartphones.
+
+This dataset takes in account the patient clinical information and different features of the skin lesions, such as their (a)symmetry or color, enabling researchers to try and find a pattern for diagnosing. However, several questions may arise when trying to determine whether any sort of algorithm could in fact be accurate in pinpointing these diagnoses. 
+
 We’ve written a brief description of the 6 diagnosis we may find in the images of the dataset:
   
   ● Actinic Keratosis (ACK): Actinic keratosis is a precancerous skin lesion caused by
