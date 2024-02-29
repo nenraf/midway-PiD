@@ -26,5 +26,8 @@ The following images were skipped by Sergio (annotator_ID), because the lesions 
 The following images were skipped by Sergio (annotator_ID), because there was too much hair:
 20a40a9b-PAT_999_20_583.png
 
+The following images were skipped by Jan (annotator_ID), because there was too much ink: 
+3dd3a20d-PAT_704_1323_974.png, bc78168f-PAT_388_2452_548.png
 
-
+The following images were skipped by Jan (annotator_ID), there is nothing wrong on the skin: 
+51b88287-PAT_512_962_998.png
