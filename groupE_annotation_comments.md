@@ -17,3 +17,14 @@ The following images were skipped by Martin (annotator_ID), because they looked 
 The following images were skipped by Martin (annotator_ID), because they had a lot of hair:
 00615c9f-PAT_1812_3492_670.png, 7a8c8117-PAT_1483_1678_850.png
 
+The following images were skipped by Sergio (annotator_ID), because they had already been masked:
+0e753b53-PAT_1065_275_136.png
+
+The following images were skipped by Sergio (annotator_ID), because the lesions were difficult to distinguish from skin:
+2438d898-PAT_1014_85_22.png, a21a7e02-PAT_1112_455_845.png
+
+The following images were skipped by Sergio (annotator_ID), because there was too much hair:
+20a40a9b-PAT_999_20_583.png
+
+
+
